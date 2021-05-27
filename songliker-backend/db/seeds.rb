@@ -5,3 +5,5 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+
+Album.create(title: "She's So Unusual", artist: "Cyndi Lauper", genre: "pop", release_year: 2000)
